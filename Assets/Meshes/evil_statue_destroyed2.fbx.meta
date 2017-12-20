@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 973f0cbeb2d47b740baba9aad484d70a
+timeCreated: 1510858492
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: BaseShard
+    100002: Blade
+    100004: //RootNode
+    100006: Helmet
+    100008: HelmetInterior
+    100010: LeftArmShard1
+    100012: LeftArmShard2
+    100014: LeftHorn
+    100016: RightArmShard1
+    100018: RightArmShard2
+    100020: RightHorn
+    100022: Shard1
+    100024: Shard1Cap
+    100026: Shard2
+    100028: Shard2Cap
+    100030: Shard3
+    100032: Shard3Cap
+    100034: Shard4
+    100036: Shard4Cap
+    100038: Shard5
+    100040: Shard5Cap
+    100042: Shard6
+    100044: Shard6Cap
+    100046: Shield
+    100048: Sword
+    400000: BaseShard
+    400002: Blade
+    400004: //RootNode
+    400006: Helmet
+    400008: HelmetInterior
+    400010: LeftArmShard1
+    400012: LeftArmShard2
+    400014: LeftHorn
+    400016: RightArmShard1
+    400018: RightArmShard2
+    400020: RightHorn
+    400022: Shard1
+    400024: Shard1Cap
+    400026: Shard2
+    400028: Shard2Cap
+    400030: Shard3
+    400032: Shard3Cap
+    400034: Shard4
+    400036: Shard4Cap
+    400038: Shard5
+    400040: Shard5Cap
+    400042: Shard6
+    400044: Shard6Cap
+    400046: Shield
+    400048: Sword
+    2300000: BaseShard
+    2300002: Blade
+    2300004: Helmet
+    2300006: HelmetInterior
+    2300008: LeftArmShard1
+    2300010: LeftArmShard2
+    2300012: LeftHorn
+    2300014: RightArmShard1
+    2300016: RightArmShard2
+    2300018: RightHorn
+    2300020: Shard1
+    2300022: Shard1Cap
+    2300024: Shard2
+    2300026: Shard2Cap
+    2300028: Shard3
+    2300030: Shard3Cap
+    2300032: Shard4
+    2300034: Shard4Cap
+    2300036: Shard5
+    2300038: Shard5Cap
+    2300040: Shard6
+    2300042: Shard6Cap
+    2300044: Shield
+    2300046: Sword
+    3300000: BaseShard
+    3300002: Blade
+    3300004: Helmet
+    3300006: HelmetInterior
+    3300008: LeftArmShard1
+    3300010: LeftArmShard2
+    3300012: LeftHorn
+    3300014: RightArmShard1
+    3300016: RightArmShard2
+    3300018: RightHorn
+    3300020: Shard1
+    3300022: Shard1Cap
+    3300024: Shard2
+    3300026: Shard2Cap
+    3300028: Shard3
+    3300030: Shard3Cap
+    3300032: Shard4
+    3300034: Shard4Cap
+    3300036: Shard5
+    3300038: Shard5Cap
+    3300040: Shard6
+    3300042: Shard6Cap
+    3300044: Shield
+    3300046: Sword
+    4300000: Helmet
+    4300002: HelmetInterior
+    4300004: LeftHorn
+    4300006: RightHorn
+    4300008: Shield
+    4300010: Sword
+    4300012: Blade
+    4300014: BaseShard
+    4300016: LeftArmShard1
+    4300018: LeftArmShard2
+    4300020: RightArmShard1
+    4300022: RightArmShard2
+    4300024: Shard1
+    4300026: Shard1Cap
+    4300028: Shard2
+    4300030: Shard2Cap
+    4300032: Shard3
+    4300034: Shard3Cap
+    4300036: Shard4
+    4300038: Shard4Cap
+    4300040: Shard6
+    4300042: Shard6Cap
+    4300044: Shard5
+    4300046: Shard5Cap
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
